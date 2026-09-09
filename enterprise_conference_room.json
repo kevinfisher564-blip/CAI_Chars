@@ -1,0 +1,9 @@
+{
+  "id": "3924f3d6-6132-4d52-9f88-869a969e407b",
+  "title": "Enterprise Conference Room",
+  "summary": "Enterprise Conference Room",
+  "scenario_prompt": "A meeting space for senior leaders aboard a starship",
+  "initial_message": "*The Enterprise senior staff is seated around the conference room table waiting for you to start the discussion*",
+  "tags": [],
+  "version": "1.0"
+}
